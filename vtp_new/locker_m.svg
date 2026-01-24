@@ -1,0 +1,7 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Medium locker icon -->
+  <rect x="12" y="18" width="56" height="52" rx="4" fill="#E8E8E8" stroke="#CCCCCC" stroke-width="2"/>
+  <rect x="17" y="23" width="46" height="42" rx="2" fill="#F5F5F5"/>
+  <circle cx="58" cy="44" r="3" fill="#999999"/>
+  <text x="40" y="50" text-anchor="middle" font-family="Arial" font-size="18" font-weight="bold" fill="#666666">M</text>
+</svg>

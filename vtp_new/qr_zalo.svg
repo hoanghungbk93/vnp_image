@@ -1,0 +1,25 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- QR Code placeholder for Zalo -->
+  <rect x="5" y="5" width="70" height="70" rx="4" fill="white" stroke="#E0E0E0" stroke-width="2"/>
+
+  <!-- QR Pattern -->
+  <rect x="10" y="10" width="18" height="18" fill="#333"/>
+  <rect x="52" y="10" width="18" height="18" fill="#333"/>
+  <rect x="10" y="52" width="18" height="18" fill="#333"/>
+
+  <rect x="13" y="13" width="12" height="12" fill="white"/>
+  <rect x="55" y="13" width="12" height="12" fill="white"/>
+  <rect x="13" y="55" width="12" height="12" fill="white"/>
+
+  <rect x="16" y="16" width="6" height="6" fill="#333"/>
+  <rect x="58" y="16" width="6" height="6" fill="#333"/>
+  <rect x="16" y="58" width="6" height="6" fill="#333"/>
+
+  <!-- Center data -->
+  <rect x="32" y="10" width="4" height="4" fill="#333"/>
+  <rect x="38" y="14" width="4" height="4" fill="#333"/>
+  <rect x="44" y="10" width="4" height="4" fill="#333"/>
+
+  <rect x="32" y="32" width="16" height="16" fill="#0068FF"/>
+  <text x="40" y="44" text-anchor="middle" font-family="Arial" font-size="10" font-weight="bold" fill="white">Z</text>
+</svg>

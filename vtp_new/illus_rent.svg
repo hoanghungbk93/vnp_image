@@ -1,0 +1,27 @@
+<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Locker cabinet -->
+  <rect x="30" y="30" width="100" height="110" rx="8" fill="#E8F5E9" stroke="#2E7D32" stroke-width="3"/>
+
+  <!-- Locker doors -->
+  <rect x="38" y="38" width="40" height="32" rx="4" fill="white" stroke="#4CAF50" stroke-width="2"/>
+  <rect x="82" y="38" width="40" height="32" rx="4" fill="white" stroke="#4CAF50" stroke-width="2"/>
+  <rect x="38" y="74" width="40" height="32" rx="4" fill="white" stroke="#4CAF50" stroke-width="2"/>
+  <rect x="82" y="74" width="40" height="32" rx="4" fill="#C8E6C9" stroke="#2E7D32" stroke-width="2"/>
+  <rect x="38" y="110" width="40" height="24" rx="4" fill="white" stroke="#4CAF50" stroke-width="2"/>
+  <rect x="82" y="110" width="40" height="24" rx="4" fill="white" stroke="#4CAF50" stroke-width="2"/>
+
+  <!-- Door handles -->
+  <circle cx="73" cy="54" r="3" fill="#4CAF50"/>
+  <circle cx="117" cy="54" r="3" fill="#4CAF50"/>
+  <circle cx="73" cy="90" r="3" fill="#4CAF50"/>
+  <circle cx="117" cy="90" r="3" fill="#2E7D32"/>
+  <circle cx="73" cy="122" r="3" fill="#4CAF50"/>
+  <circle cx="117" cy="122" r="3" fill="#4CAF50"/>
+
+  <!-- Key icon -->
+  <circle cx="130" cy="30" r="15" fill="#FFE082"/>
+  <circle cx="130" cy="30" r="8" fill="none" stroke="#FF9800" stroke-width="3"/>
+  <path d="M130 38V55" stroke="#FF9800" stroke-width="3" stroke-linecap="round"/>
+  <path d="M130 48H138" stroke="#FF9800" stroke-width="3" stroke-linecap="round"/>
+  <path d="M130 52H135" stroke="#FF9800" stroke-width="3" stroke-linecap="round"/>
+</svg>
