@@ -1,7 +1,0 @@
-<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <!-- Small locker icon - disabled (gray) -->
-  <rect x="15" y="25" width="50" height="45" rx="4" fill="#E0E0E0" stroke="#BDBDBD" stroke-width="2"/>
-  <rect x="20" y="30" width="40" height="35" rx="2" fill="#EEEEEE"/>
-  <circle cx="55" cy="47" r="3" fill="#BDBDBD"/>
-  <text x="40" y="52" text-anchor="middle" font-family="Arial" font-size="16" font-weight="bold" fill="#BDBDBD">S</text>
-</svg>

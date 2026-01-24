@@ -1,7 +1,0 @@
-<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <!-- Large locker icon - disabled (gray) -->
-  <rect x="8" y="10" width="64" height="60" rx="4" fill="#E0E0E0" stroke="#BDBDBD" stroke-width="2"/>
-  <rect x="13" y="15" width="54" height="50" rx="2" fill="#EEEEEE"/>
-  <circle cx="62" cy="40" r="3" fill="#BDBDBD"/>
-  <text x="40" y="46" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold" fill="#BDBDBD">L</text>
-</svg>
